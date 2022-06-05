@@ -1,0 +1,1 @@
+# Projeto-da-disciplina-GER-NCIA-DE-CONFIGURA-O-E-MUDAN-AS
