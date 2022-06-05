@@ -1,1 +1,1 @@
-# Projeto-da-disciplina-GER-NCIA-DE-CONFIGURA-O-E-MUDAN-AS
+# Projeto_da_disciplina_GERENCIA-DE-CONFIGURACAO-E-MUDANCAS
