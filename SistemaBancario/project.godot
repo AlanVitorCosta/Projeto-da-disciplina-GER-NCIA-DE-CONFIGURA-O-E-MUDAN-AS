@@ -8,9 +8,20 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Resource",
+"class": "AccountData",
+"language": "GDScript",
+"path": "res://scripts/account_data.gd"
+} ]
+_global_script_class_icons={
+"AccountData": ""
+}
+
 [application]
 
 config/name="Banco"
+run/main_scene="res://scenes/User.tscn"
 config/icon="res://icon.png"
 
 [physics]
